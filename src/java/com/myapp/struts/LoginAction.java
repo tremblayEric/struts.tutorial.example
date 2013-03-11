@@ -9,10 +9,6 @@ import org.apache.struts.action.ActionForm;
 import org.apache.struts.action.ActionForward;
 import org.apache.struts.action.ActionMapping;
 
-/**
- *
- * @author erictremblay
- */
 public class LoginAction extends org.apache.struts.action.Action {
 
     /* forward name="success" path="" */
